@@ -55,8 +55,7 @@ CLEAN & SAFE USE:
 
 Download Here: 
 Download
-
-🔻 [Download the Batch Script]([https://raw.githubusercontent.com/your-username/your-repo/main/BlockCapCutUpdate.bat](https://github.com/sirennfx/capcut-block-updates/blob/main/BlockCapCutUpdate.bat))
+[Download the Batch Script]([https://raw.githubusercontent.com/your-username/your-repo/main/BlockCapCutUpdate.bat](https://github.com/sirennfx/capcut-block-updates/blob/main/BlockCapCutUpdate.bat))
 
 Right-click the link above > "Save link as..." to download.
 
