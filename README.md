@@ -53,4 +53,11 @@ CLEAN & SAFE USE:
 • You can run this after each CapCut launch to clean and block again.
 • Works best when CapCut is fully closed while running the script.
 
+Download Here: 
+Download
+
+🔻 [Download the Batch Script]([https://raw.githubusercontent.com/your-username/your-repo/main/BlockCapCutUpdate.bat](https://github.com/sirennfx/capcut-block-updates/blob/main/BlockCapCutUpdate.bat))
+
+Right-click the link above > "Save link as..." to download.
+
 Enjoy a stable CapCut version with no surprise updates.
